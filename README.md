@@ -15,7 +15,9 @@ Soğutulmuş bir şişe el ile kavranıp üzerine madeni para konulduğunda made
 
 ## Giriş 
 Projenin temel amacı, ısının hava basıncı üzerine etkisini deney ortamında gözlemlemek. Normlade diğer projelerde şişenin soğuk olması için buzlu su kullanılmış, ama biz direkt şişeyi soğuk olarak kullandık. Hedefimiz bozuk paranın hareketini gözlemlemekti. Ama maalesef başarısız olduk.
+
 KAYNAKÇALAR 
+
 1.https://www.google.com.tr/url?sa=t&source=web&rct=j&url=http://mobilim.bozok.edu.tr/tr/1/deneyler/Dans_Eden_Para.pdf&ved=0ahUKEwif06aT5pfXAhVJXBoKHf34B6YQFggkMAA&usg=AOvVaw2sJs_VUDDFD2ukmujAGXW6
 
 2.https://www.google.com.tr/url?sa=t&source=web&rct=j&url=http://www.umanitoba.ca/outreach/crystal/resources%2520for%2520teachers/The%2520Dancing%2520Coin.doc&ved=0ahUKEwi1jv335pfXAhWCfhoKHRcuCa0QFgh0MBY&usg=AOvVaw1uuLi7hfNAA12gMVStJK6A
