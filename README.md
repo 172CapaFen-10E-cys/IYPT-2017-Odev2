@@ -6,7 +6,7 @@ Sınıf| Öğrenci İsmi | Numara
 
 10-E | Yaren Gök     | 417
 
-### Dancing Coin 
+### DANCING COIN  (Dans Eden Para)
 
 
 ## Projenin Özeti
