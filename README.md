@@ -32,4 +32,5 @@ Süreçler:
 *Deneyi okulda, grupça iki kez tekrarladık.
 ##Bulgular
 Yaptığımız deney maalesef başarısızlıkla sonuçlandı bunun sebebini kullandığımız şişenin yeteri kadar soğuk olmaması olarak değerlendiriyoruz. Eğer kullandığımız şişe yeteri kadar soğuk olsaydı elimizi koyduğumuzda meydana gelecek sıcaklık farkından dolayı para titreyecekti. Ancak yaptığımız deney ortamı (okul) istediğimiz kadar soğuk bir şişeyle deneyi gerçekleştirmememize olanak sağlamamiştir.
-
+##Bulgular
+Yaptığımız deney maalesef başarısızlıkla sonuçlandı bunun sebebini kullandığımız şişenin yeteri kadar soğuk olmaması olarak değerlendiriyoruz. Eğer kullandığımız şişe yeteri kadar soğuk olsaydı elimizi koyduğumuzda meydana gelecek sıcaklık farkından dolayı para titreyecekti. Ancak yaptığımız deney ortamı (okul) istediğimiz kadar soğuk bir şişeyle deneyi gerçekleştirmememize olanak sağlamamiştir.
