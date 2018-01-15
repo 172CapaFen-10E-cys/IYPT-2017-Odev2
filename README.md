@@ -14,7 +14,7 @@ Sınıf| Öğrenci İsmi | Numara
 Soğutulmuş bir şişe el ile kavranıp üzerine madeni para konulduğunda madeni parada bir titreşim meydana gelmektedir. Bu projenin amacı madeni para gözlenen bu hareketi araştırıp üzerine yorum yapmaktır.Şimdi yapacağımız hakkında biraz bilgi vermek istiyoruz. Buzlu soğuk su dolu bir kaba cam bir sişe konulup soğuması beklenir. Şişe soğuduktan sonra şişenin ağız kısmına ağız kısmından biraz daha büyük bir madeni para yerleştirilir.Ardından şişe el ile kavranır. Elimiz şişeden daha sıcak olduğu için ısı alış-verişi gerçekleşecektir. Şişenin içindeki hava ısınır ve ısınan hava genleşir.Çünkü moleküller daha hızlı hareket etmeye başlar ve daha fazla enerjiye sahip olur. Ayrıca moleküller birbirleri ile daha çok çarpışır. Sıcak havadaki basınç soğuk havaya oranla daha fazla olduğundan açığa çıkan enerji şişenin üzerindeki basıncın artmasına ve havanın kaçmaya çalışmasına sebep olur, bu da madeni paranın titremesini sağlar.El çekildiğinde şişedeki hava yeniden soğur ve basınç yeniden düşer dolayısıyla paranın hareketi son bulur.
 
 ## Giriş 
-Projenin temel amacı, ısının hava basıncı üzerine etkisini deney ortamında gözlemlemek. Normlade diğer projelerde şişenin soğuk olması için buzlu su kullanılmış, ama biz direkt şişeyi soğuk olarak kullandık. Hedefimiz bozuk paranın hareketini gözlemlemekti. Ama maalesef başarısız olduk.
+Projenin temel amacı, ısının hava basıncı üzerine etkisini deney ortamında gözlemlemek. Normalde diğer projelerde şişenin soğuk olması için buzlu su kullanılmış, ama biz direkt şişeyi soğuk olarak kullandık. Hedefimiz bozuk paranın hareketini gözlemlemekti. Ama maalesef başarısız olduk.
 
 KAYNAKÇALAR 
 
@@ -27,7 +27,7 @@ KAYNAKÇALAR
 ## Materyal ve Yöntem 
 *Önce bu deneyle ilgili internetten araştırma yapıp, videolar izledik.
 *Daha sonra, deneydeki malzemeleri bir araya getirip, okulda öğle arası deneyi gerçekleştirdik.
- *Gözlemlediğimiz verilere göre, deneyin başarısız olmasının sebebi şişenin yeteri kadar soğuk olmamasıydı.
+*Gözlemlediğimiz verilere göre, deneyin başarısız olmasının sebebi şişenin yeteri kadar soğuk olmamasıydı.
  
 *Malzemeler:
 
@@ -50,3 +50,5 @@ Süreçler:
 
 ## Bulgular
 Yaptığımız deney maalesef başarısızlıkla sonuçlandı bunun sebebini kullandığımız şişenin yeteri kadar soğuk olmaması olarak değerlendiriyoruz. Eğer kullandığımız şişe yeteri kadar soğuk olsaydı elimizi koyduğumuzda meydana gelecek sıcaklık farkından dolayı para titreyecekti. Ancak yaptığımız deney ortamı (okul) istediğimiz kadar soğuk bir şişeyle deneyi gerçekleştirmememize olanak sağlamamiştir.
+
+
